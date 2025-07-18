@@ -1,9 +1,9 @@
-title: Just the Docs Template
+title: ManyMusic Dataset
 description: A starter template for a Jeykll site using the Just the Docs theme!
 theme: just-the-docs
 color_scheme: dark
 
-url: https://just-the-docs.github.io
+url: https://manymusic.net
 
 aux_links:
-  Template Repository: https://github.com/just-the-docs/just-the-docs-template
+#  Template Repository: https://github.com/just-the-docs/just-the-docs-template
