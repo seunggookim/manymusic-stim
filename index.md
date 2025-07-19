@@ -14,11 +14,11 @@ Psychological and neuroscientific research on music-evoked emotions has been con
 ## 🔬How was it validated?
 We conducted a series of experiments comparing the ManyMusic-Stim dataset to commercial music. Our results show that [carefully curated](/plots_music) subsets of the dataset are comparable to well-matched commercial tracks across various subjective ratings, including liking and feeling moved. These [findings](/plots_bhv) provide empirical support for the use of ManyMusic-Stim as a valid alternative to commercial music in affective research.
 
-See our [paper](paper-link) for more details.
+See our [paper] for more details.
 
 
 ## 😀How to use it?
-The ManyMusic-Stim dataset is available for download from [Zenodo](https://zenodo.org/record/1234567).
+The ManyMusic-Stim dataset is available for download from [Zenodo].
 The dataset includes: 
 
 - audio files in MP3 format, 
@@ -38,7 +38,7 @@ If you use the ManyMusic-Stim dataset in your research, please cite the followin
 
 ## 🙏Acknowledgments
 This work was supported by the Max Planck Society and Johanna Quandt Young Academy at Goethe University Frankfurt. 
-Part of the data was presented at the [ICMPC](https://www.icmpc.org/) conference in São Paulo, Braizil, 2025.
+Part of the data was presented at the [ICMPC] conference in São Paulo, Braizil, 2025.
 We thank all participants for their contributions to this dataset.
 
 ## 👩‍⚖️License
@@ -49,7 +49,10 @@ The ManyMusic-Stim dataset is licensed under ....
 
 ----
 
-[^1]: This page is maintained by <seung-goo.kim@ae.mpg.de>.
+[^1]: The work is a collaboration between the [Max Planck Institute for Empirical Aesthetics](https://www.aesthetics.mpg.de/en.html) and [Pompeu Fabra University](https://www.upf.edu/web/mtg): main contributors are [Seung-Goo Kim](https://github.com/seunggookim/), [Pablo Alonso](https://github.com/palonso), and [Dmitry Bogdanov](https://github.com/dbogdanov).
+
+
+<!-- The dataset is part of the [ManyMusic project](https://www.aesthetics.mpg.de/en/research/projects/manymusic.html). -->
 
 <!--
 [Just the Docs]: https://just-the-docs.github.io/just-the-docs/
@@ -58,3 +61,6 @@ The ManyMusic-Stim dataset is licensed under ....
 [Jekyll]: https://jekyllrb.com
 [GitHub Pages / Actions workflow]: https://github.blog/changelog/2022-07-27-github-pages-custom-github-actions-workflows-beta/
 [use this template]: https://github.com/just-the-docs/just-the-docs-template/generate -->
+[Zenodo](https://zenodo.org/record/1234567)
+[paper](paper-link)
+[ICMPC](https://www.icmpc.org/)
