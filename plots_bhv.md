@@ -1,5 +1,5 @@
 ---
-title: bhv plots
+title: plots: behaviors
 layout: post
 ---
 More plots 

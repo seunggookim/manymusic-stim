@@ -1,5 +1,5 @@
 ---
-title: plots
+title: plots: music
 layout: post
 ---
 Shows plots
