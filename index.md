@@ -12,9 +12,9 @@ We[^1] presents the `ManyMusic-Stim` dataset, which is an open-access music audi
 Psychological and neuroscientific research on music-evoked emotions has been constrained by limitations in stimulus selection. Common issues include artificially manipulated stimuli, copyright restrictions preventing data sharing, narrow genre sampling, and experimenter bias. The ManyMusic-Stim dataset addresses these challenges by offering a large-scale, open-access collection of music audio files curated to ensure diverse representation across genres and styles.
 
 ## 🔬How was it validated?
-We conducted a series of experiments comparing the ManyMusic-Stim dataset to commercial music. Our results show that carefully curated subsets of the dataset are comparable to well-matched commercial tracks across various subjective ratings, including liking and feeling moved. These findings provide empirical support for the use of ManyMusic-Stim as a valid alternative to commercial music in affective research.
+We conducted a series of experiments comparing the ManyMusic-Stim dataset to commercial music. Our results show that [carefully curated](/plots_music) subsets of the dataset are comparable to well-matched commercial tracks across various subjective ratings, including liking and feeling moved. These [findings](/plots_bhv) provide empirical support for the use of ManyMusic-Stim as a valid alternative to commercial music in affective research.
 
-See [plots: behaviors](/plots_bhv) and [plots: music](/plots_music) for more details.
+See our [paper](paper-link) for more details.
 
 
 ## 😀How to use it?
