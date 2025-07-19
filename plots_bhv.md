@@ -1,5 +1,5 @@
 ---
-title: plots: behaviors
+title: Human validation experiments
 layout: home
 ---
-More plots 
+# More plots 

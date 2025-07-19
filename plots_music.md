@@ -1,5 +1,5 @@
 ---
-title: plots: music
+title: Music selection process
 layout: home
 ---
-Shows plots
+# Shows some plots here
