@@ -49,7 +49,7 @@ The ManyMusic-Stim dataset is licensed under ....
 
 ----
 
-[^1]: The work is a collaboration between the [Max Planck Institute for Empirical Aesthetics](https://www.aesthetics.mpg.de/en.html) and [Pompeu Fabra University](https://www.upf.edu/web/mtg): main contributors are [Seung-Goo Kim](https://github.com/seunggookim/), [Pablo Alonso](https://github.com/palonso), and [Dmitry Bogdanov](https://github.com/dbogdanov).
+[^1]: The work is a collaboration between the [Max Planck Institute for Empirical Aesthetics](https://www.aesthetics.mpg.de/en.html) and [Pompeu Fabra University](https://www.upf.edu/web/mtg). Main contributors are [Seung-Goo Kim](https://github.com/seunggookim/), [Pablo Alonso](https://github.com/palonso), and [Dmitry Bogdanov](https://github.com/dbogdanov).
 
 
 <!-- The dataset is part of the [ManyMusic project](https://www.aesthetics.mpg.de/en/research/projects/manymusic.html). -->
