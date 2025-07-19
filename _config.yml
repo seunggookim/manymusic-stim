@@ -10,8 +10,8 @@ aux_links:
   Zenodo: https://zenodo.org/record/1234567
 #  Template Repository: https://github.com/just-the-docs/just-the-docs-template
 
-plugins:
-  - jekyll-default-layout
+# plugins:
+#   - jekyll-default-layout
 
 ga_tracking: G-E9Z6Q1YYX2
 ga_tracking_anonymize_ip: true
