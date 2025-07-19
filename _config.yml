@@ -12,3 +12,6 @@ aux_links:
 
 plugins:
   - jekyll-default-layout
+
+ga_tracking: G-E9Z6Q1YYX2
+ga_tracking_anonymize_ip: true
