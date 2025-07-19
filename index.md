@@ -3,7 +3,8 @@ title: Home
 layout: home
 ---
 
-# ManyMusic-Stim: An Open-access Music Audio Dataset for Human Experiments on Musical Emotions
+# ManyMusic-Stim🎵
+<!-- # ManyMusic-Stim: An Open-access Music Audio Dataset for Human Experiments on Musical Emotions -->
 
 We[^1] presents the `ManyMusic-Stim` dataset, which is an open-access music audio dataset designed for human experiments on musical emotions.
 
@@ -18,7 +19,12 @@ See [plots: behaviors](/plots_bhv) and [plots: music](/plots_music) for more det
 
 ## 😀How to use it?
 The ManyMusic-Stim dataset is available for download from [Zenodo](https://zenodo.org/record/1234567).
-The dataset includes audio files in MP3 format, metadata in CSV format, and subjective ratings of musical emotions in CSV format.
+The dataset includes: 
+
+- audio files in MP3 format, 
+- metadata in CSV format, and 
+- subjective ratings of musical emotions in CSV format.
+
 The audio files are encoded at 320 kbps, and the metadata includes information such as the title, artist, genre, and duration of each track.
 The subjective ratings of musical emotions include ratings for valence, arousal,
 and dominance, as well as ratings for specific emotions such as happiness, sadness, and anger.
@@ -27,12 +33,19 @@ and dominance, as well as ratings for specific emotions such as happiness, sadne
 If you use the ManyMusic-Stim dataset in your research, please cite the following paper:
 
 [PAPER-INFO]
+[BIBTEX-INFO]
+[RIS-INFO]
+
+## 🙏Acknowledgments
+This work was supported by the Max Planck Society and Johanna Quandt Young Academy at Goethe University Frankfurt. 
+Part of the data was presented at the [ICMPC](https://www.icmpc.org/) conference in São Paulo, Braizil, 2025.
+We thank all participants for their contributions to this dataset.
 
 ## 👩‍⚖️License
 The ManyMusic-Stim dataset is licensed under ....
 
 
-(CC BY-NC-SA 4.0 International License)[https://creativecommons.org/licenses/by-nc-sa/4.0/]. This means you are free to share and adapt the dataset for non-commercial purposes, as long as you give appropriate credit, provide a link to the license, and indicate if changes were made. You may not use the material for commercial purposes.
+<!-- (CC BY-NC-SA 4.0 International License)[https://creativecommons.org/licenses/by-nc-sa/4.0/]. This means you are free to share and adapt the dataset for non-commercial purposes, as long as you give appropriate credit, provide a link to the license, and indicate if changes were made. You may not use the material for commercial purposes. -->
 
 ----
 
