@@ -1,12 +1,9 @@
+TBD
+
+---
 # just-the-docs-template
 
-
-| and | This | is |
-| some | random | text |
-
-
-
-## This is a *bare-minimum* template to create a [Jekyll] site that:
+This is a *bare-minimum* template to create a [Jekyll] site that:
 
 - uses the [Just the Docs] theme;
 - can be built and published on [GitHub Pages];
