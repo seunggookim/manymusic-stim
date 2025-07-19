@@ -2,7 +2,8 @@ title: ManyMusic🎵
 description: ManyMusic Dataset 
 theme: just-the-docs
 
-url: https://manymusic.net
+# url: https://manymusic.net
+url: https://seunggookim.github.io/manymusicstim/
 
 aux_links:
   Paper: https://arxiv.org/abs/2401.12345
