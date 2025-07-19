@@ -1,5 +1,5 @@
 ---
 title: plots: behaviors
-layout: post
+layout: home
 ---
 More plots 

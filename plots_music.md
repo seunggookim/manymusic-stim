@@ -1,5 +1,5 @@
 ---
 title: plots: music
-layout: post
+layout: home
 ---
 Shows plots
