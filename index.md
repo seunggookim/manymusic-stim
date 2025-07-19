@@ -5,7 +5,7 @@ layout: home
 
 # ManyMusic-Stim: An Open-access Music Audio Dataset for Human Experiments on Musical Emotions
 
-We presents the `ManyMusic-Stim` dataset[^1], which is an open-access music audio dataset designed for human experiments on musical emotions.
+We[^1] presents the `ManyMusic-Stim` dataset, which is an open-access music audio dataset designed for human experiments on musical emotions.
 
 ## 🤔Another music dataset, why?
 Psychological and neuroscientific research on music-evoked emotions has been constrained by limitations in stimulus selection. Common issues include artificially manipulated stimuli, copyright restrictions preventing data sharing, narrow genre sampling, and experimenter bias. The ManyMusic-Stim dataset addresses these challenges by offering a large-scale, open-access collection of music audio files curated to ensure diverse representation across genres and styles.
@@ -36,8 +36,9 @@ The ManyMusic-Stim dataset is licensed under ....
 
 ----
 
-<!-- [^1]: [It can take up to 10 minutes for changes to your site to publish after you push the changes to GitHub](https://docs.github.com/en/pages/setting-up-a-github-pages-site-with-jekyll/creating-a-github-pages-site-with-jekyll#creating-your-site).
+[^1]: This page is maintained by <seung-goo.kim@ae.mpg.de>.
 
+<!--
 [Just the Docs]: https://just-the-docs.github.io/just-the-docs/
 [GitHub Pages]: https://docs.github.com/en/pages
 [README]: https://github.com/just-the-docs/just-the-docs-template/blob/main/README.md
